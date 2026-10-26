@@ -1,0 +1,5 @@
+Verified 26 October 2026
+All five synthetic-fixture test cases passed.
+Analysis CLI executed on 32,581 records.
+All seven missing counts reconcile to source columns.
+Income-loan amount Pearson correlation agrees with independent centered-vector arithmetic within 1e-12.
